@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>41AD1F7A-E971-4D00-B0BC-9DF892B7522D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DD091C5D03D23C2F1EC054BC9C018DF9A9125FD6</key>
+		<string>github.com:jakemarsh/DZNEmptyDataSet.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Framework/Framework.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DD091C5D03D23C2F1EC054BC9C018DF9A9125FD6</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jakemarsh/DZNEmptyDataSet.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DD091C5D03D23C2F1EC054BC9C018DF9A9125FD6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD091C5D03D23C2F1EC054BC9C018DF9A9125FD6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DZNEmptyDataSet</string>
+		</dict>
+	</array>
+</dict>
+</plist>
